@@ -2,12 +2,17 @@
 #include <time.h>
 #include "tiempo.h"
 
-void setTime(unsigned int crono)
+void timeStart(int nro, int tiempo, int unit, int *accion)
 {
 
 }
 
-int getTime()
+void setTime(int tiempo)
+{
+
+}
+
+int getTime(void)
 {
 
 }

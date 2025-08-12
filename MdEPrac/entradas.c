@@ -1,17 +1,17 @@
 #include <stdio.h>
 #include "entradas.h"
 
-int TanqueLleno()
+int TanqueLleno(int recipiente)
 {
 
 }
 
-int TanqueVacio()
+int TanqueVacio(int recipiente)
 {
 
 }
 
-int TempOK()
+int TempOK(int temperatura)
 {
 
 }
